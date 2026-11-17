@@ -65,3 +65,8 @@ h1 em { color: var(--violet); font-weight: 400; }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
 }
+.section-title { margin: 8px 0 22px; font-size: clamp(1.6rem, 4vw, 2.2rem); }
+.card h3 { margin: 0 0 8px; font-size: 1.15rem; }
+article.card:hover { transform: none; border-color: var(--line); }
+.content ol { padding-left: 1.2em; }
+.content#how, .content#faq { padding-top: 0; padding-bottom: 40px; }

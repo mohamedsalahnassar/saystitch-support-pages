@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohamedsalahnassar.github.io/saystitch-support-pages/sitemap.xml
